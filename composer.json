@@ -19,7 +19,8 @@
   },
   "autoload": {
     "psr-4": {
-      "app\\": "app/"
+      "app\\": "app/",
+      "ree\\": "framework/library"
     }
   },
   "repositories": {
