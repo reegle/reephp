@@ -6,7 +6,7 @@
     "reephp"
   ],
   "homepage": "https://reegle.com/",
-  "license": "GPL-2.0",
+  "license": "Apache-2.0",
   "authors": [
     {
       "name": "Reegle",
