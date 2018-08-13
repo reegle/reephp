@@ -1,5 +1,6 @@
 {
   "name": "reegle/reephp",
+  "version":"2.0.2",
   "description": "php framework",
   "type": "project",
   "keywords": [
@@ -15,7 +16,7 @@
   ],
   "require": {
     "php": ">=7.0.0",
-    "reegle/framework": "*"
+    "reegle/framework": "2.*"
   },
   "autoload": {
     "psr-4": {
