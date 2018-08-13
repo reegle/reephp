@@ -1,0 +1,31 @@
+{
+  "name": "reegle/reephp",
+  "description": "php framework",
+  "type": "project",
+  "keywords": [
+    "reephp"
+  ],
+  "homepage": "https://reegle.com/",
+  "license": "GPL-2.0",
+  "authors": [
+    {
+      "name": "Reegle",
+      "email": "admin@reegle.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.0.0"
+
+  },
+  "autoload": {
+    "psr-4": {
+      "app\\": "app/"
+    }
+  },
+  "repositories": {
+    "packagist": {
+      "type": "composer",
+      "url": "https://packagist.phpcomposer.com"
+    }
+  }
+}
